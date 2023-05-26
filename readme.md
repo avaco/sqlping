@@ -9,7 +9,7 @@ This is based on sql ping by sql security, that hasn't been updated in a decade.
 
 Use the package npm 
 ```bash
-npm i sqlping
+npm i sqlfind-ping
 ```
 
 ## Usage
