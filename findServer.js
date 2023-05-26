@@ -4,8 +4,6 @@ const path = require('path');
 
 const sqlversions = require('./sqlversions.json');
 
-let server = {};
-
 
 const data = Buffer.from([
   0x12, 0x01, 0x00, 0x34, 0x00, 0x00, 0x00, 0x00,
