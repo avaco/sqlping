@@ -15,7 +15,7 @@ npm i sqlfind-ping
 ## Usage
 
 ```js
-const {findServer} = require('./findServer.js');
+const {findServer} = require('sqlfind-ping');
 
 #Expects IP and port
 #you can pass an IP adress or localhost

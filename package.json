@@ -1,6 +1,6 @@
 {
   "name": "sqlfind-ping",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A simple utility to ping a sqlserver ",
   "main": "index.js",
   "author": "Avaco <waired@gmail.com>",

@@ -1,5 +1,5 @@
 const { expect } = require('chai');
-const {findServer} = require('./findServer.js');
+const {findServer} = require('./index.js');
 
 describe('findServer', () => {
   it('should return an object with the following properties', async () => {
